@@ -101,3 +101,4 @@ Here are some of the main operations you can perform:
 
 For a step-by-step walkthrough of the application, check out the [video demonstration](https://drive.google.com/file/d/1g3g2Vrar_UcnNAd5VdEbXKkIN4dpL3LC/view).
 
+For any issues or questions, feel free to open an issue in the repository.
